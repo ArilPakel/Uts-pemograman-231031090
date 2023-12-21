@@ -3,4 +3,4 @@
 <div> Nim : 231031090 </div>
 <div> Prodi : Sistem Informasi C </div>
 
-*UTS `231031090-middle-SIC`
+* UTS `231031090-middle-SIC`
